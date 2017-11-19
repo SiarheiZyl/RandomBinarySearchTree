@@ -3,5 +3,6 @@
 CourseWork:
 Random Binary Search Tree
 
-git clone https://github.com/kovinevmv/RandomBinarySearchTree.git
-Run in Qt
+1. git clone https://github.com/kovinevmv/RandomBinarySearchTree.git
+
+2. Run in Qt
